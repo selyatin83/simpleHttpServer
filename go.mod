@@ -1,3 +1,3 @@
-module github.com/selyatin83/simpleHttpServer/main
+module main
 
 go 1.22.0
